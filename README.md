@@ -1,3 +1,3 @@
 # NGINX Notes
 
-Things  
+Things related to NGINX level up and NGINX automation
