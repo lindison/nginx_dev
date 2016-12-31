@@ -10,5 +10,6 @@ apt install -y build-essential libpcre3 libpcre3-dev libpcrecpp0v5 libssl-dev zl
             --with-debug --with-pcre \
             --with-http_ssl_module
 make
+make install
 rm -rf nginx-1.11.7
 rm -f /home/ubuntu/code/nginx-1.11.7.tar.gz
